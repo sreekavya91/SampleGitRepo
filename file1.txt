@@ -1,2 +1,3 @@
 This is with git and github
 my second line
+my thrd line from git
